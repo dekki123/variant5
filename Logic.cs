@@ -2,7 +2,7 @@
 // Вариант 5: для каждого вещественного массива найти количество столбцов,
 // содержащих только неположительные элементы (<= 0).
 
-namespace Variant5;
+namespace Variant5Arrays;
 
 public static class MatrixLogic
 {
